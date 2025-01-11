@@ -185,7 +185,3 @@ curl -X POST -d "secret=My new secret" http://localhost:3000/submit
 - This app is designed for educational purposes and does not implement advanced security features like input validation or CSRF protection.
 - For production, ensure secure handling of sensitive data and implement additional security measures.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
