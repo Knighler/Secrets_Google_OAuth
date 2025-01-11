@@ -179,9 +179,3 @@ curl -X POST -d "secret=My new secret" http://localhost:3000/submit
 - `passport-google-oauth2`: Google OAuth2 strategy for passport.
 - `express-session`: Session management middleware.
 - `dotenv`: Loads environment variables from `.env` file.
-
-## Notes
-
-- This app is designed for educational purposes and does not implement advanced security features like input validation or CSRF protection.
-- For production, ensure secure handling of sensitive data and implement additional security measures.
-
